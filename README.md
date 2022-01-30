@@ -77,6 +77,8 @@ pip3 install -U pip wheel setuptools
 pip3 install -r requirements.txt
 ```
 
+You can find the requirements.txt in this repo (this is the same as the one on the HW1 repo).
+
 ### deactivate the virtual environment
 run 
 ```bash
