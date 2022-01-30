@@ -71,7 +71,7 @@ After activation, you can call `python3.9` directly with `python`, because that 
 ### installing the required packages with pip
 AFTER ACTIVATING THE VIRTUAL ENVIRONMENT, you can install the required packages with pip. You only need to do this once during setup.
 ```bash
-# optinal: update the essential packages
+# optional: update the essential packages
 pip3 install -U pip wheel setuptools
 # essential: install all CS1420 dependencies
 pip3 install -r requirements.txt
