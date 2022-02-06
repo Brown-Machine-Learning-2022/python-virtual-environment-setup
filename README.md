@@ -86,3 +86,10 @@ deactivate
 ```
 
 After deactivation, you will notice the `(env) $...` disappearsing in the prompt. 
+
+### installing quadprog on windows
+you will need to install a C compiler on windows if you do not already have one. you can install it by doing the following
+
+1. Download Visual Studio Build Tools (community version) https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2019
+2. Open the Visual Studio Installer. Download and install the Desktop Development with C++ under 'Workloads' by clicking 'Modify'.
+3. Install requirements.txt as before and quadprog should work now. 
